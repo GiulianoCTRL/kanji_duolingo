@@ -1,0 +1,4 @@
+ankipandas
+duolingo-api @ git+https://github.com/GiulianoCTRL/Duolingo.git
+pandas
+requests
